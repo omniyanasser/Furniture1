@@ -1,0 +1,41 @@
+/* start header */
+.format-btn{
+    border-color: darkgrey;
+}
+.format-btn:hover{
+    background-color: darkgray;
+    border: none;
+}
+/* end header */
+
+/* start content */
+.container{
+    padding-top: 40px;
+}
+
+.btn-content:hover{
+  background-color: #2f5aa2;
+  color:#fff
+}
+.format-icon{
+    margin-left: 20px ;
+}
+
+.format-icon-fav{
+    margin-left: 12px;
+}
+
+.format-icon-not-fav{
+    margin-left: 33px;
+}
+
+.format-text{
+    padding-top: 40px;
+}
+/* end content */
+
+/* start fav sec */
+.icon-fav{
+    float: right;
+}
+/* end fav sec */
